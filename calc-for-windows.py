@@ -1,5 +1,5 @@
 #This is a Calculator for addition, subtraction, division, and multiplication.
-#Be sure to commeit and add pull requests!!! 
+#Be sure add pull requests!!! 
 import os
 clear = lambda:os.system('cls')
 clear()
