@@ -8,7 +8,7 @@ print ('---Welcome to the best Calculator for Linux!---')
 while True:
     print('(1) Add')
     print('(2) Subtract')
-    print('(3) Muntiply')
+    print('(3) Multiply')
     print('(4) Divide')
     ask=input('Enter choice:    ')
     print ('\n')
